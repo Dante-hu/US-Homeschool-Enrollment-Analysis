@@ -7,17 +7,16 @@ This project is a data science exploration of homeschool enrollment in the Unite
 ## Project Structure
 
 - **Data**: Contains the raw data files used in the analysis.
-- **Notebooks**: Includes Jupyter Notebooks used for data cleaning and analysis.
-  - `Data_Cleaning.ipynb`: Notebook detailing the data cleaning process.
-  - `Data_Analysis.ipynb`: Notebook demonstrating the analysis of homeschool enrollment data.
+- **Notebooks**: Includes Jupyter Notebook used for data cleaning and analysis.
+  - `EnrollmentData_Exploration.ipynb`: Notebook detailing the data cleaning process, while demonstrating the analysis of homeschool enrollment data.
 - **Visualizations**: Contains visualizations generated during the analysis.
 - **README.md**: This file providing an overview of the project.
 
 ## How to Use
 
 1. Clone the repository to your local machine.
-2. Navigate to the `Notebooks` directory.
-3. Open the Jupyter Notebooks (`Data_Cleaning.ipynb` and `Data_Analysis.ipynb`) using Jupyter Notebook or JupyterLab.
+2. Navigate to the `US_HomeSchool` directory.
+3. Open the Jupyter Notebook (`EnrollmentData_Exploration.ipynb`) using Jupyter Notebook or JupyterLab.
 4. Follow the step-by-step instructions in the notebooks to understand the data cleaning process and perform analysis.
 5. Explore the visualizations in the `Visualizations` directory to gain insights into homeschool enrollment trends in the U.S.
 
